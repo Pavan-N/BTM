@@ -1,11 +1,10 @@
 Hibernate:
-	* Good knowledge on ORM and its problems.
-	* Good understanding of Hibernate components.
-	* CRUD operations using basic session methods and HQL queries.
-	* Configuring connecting pool (c3p0) with hibernate.
+* Good knowledge on ORM and its problems.
+* Good understanding of Hibernate components.
+* CRUD operations using basic session methods and HQL queries.
 
 Spring: 
-	* Good understanding of IoC and Dependency Injection.
-	* Configuring spring application using xml and annotations.
-	* Good knowledge on Spring MVC and MVC architecture.
-	* Integrating Spring MVC application with hibernate.
+* Good understanding of IoC and Dependency Injection.
+* Configuring spring application using xml and annotations.
+* Good knowledge on Spring MVC and MVC architecture.
+* Integrating Spring MVC application with hibernate.
