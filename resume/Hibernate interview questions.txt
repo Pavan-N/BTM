@@ -1,0 +1,13 @@
+What is Hibernate?
+What is JPA? Example of JPA providers.
+What is ORM and explain ORM problems.
+Explain hibernate Components/Architecture.
+Difference between SessionFactory and Session.
+What is Entity and explain its states.
+Difference between 
+	-- get and load
+	-- save and persist
+	-- update and merge
+	-- save, update and saveOrUpdate
+What is HQL and how to work with HQL?
+Explain different types of Relations with an example.
