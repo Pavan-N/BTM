@@ -1,7 +1,8 @@
 Hibernate:
 * Good knowledge on ORM and its problems.
 * Good understanding of Hibernate components.
-* CRUD operations using basic session methods and HQL queries.
+* Hands on experience on performing CRUD operations using basic session methods
+* Good practical knowledge of working with HQL queries.
 
 Spring: 
 * Good understanding of IoC and Dependency Injection.
