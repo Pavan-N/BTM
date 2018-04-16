@@ -11,3 +11,5 @@ Difference between
 	-- save, update and saveOrUpdate
 What is HQL and how to work with HQL?
 Explain different types of Relations with an example.
+What is cascade?
+What is lazy loading?
