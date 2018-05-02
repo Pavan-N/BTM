@@ -1,0 +1,8 @@
+What is spring?
+What is IoC?
+Differences b/w spring containers.
+What is scope?
+Explain DI.
+Explain sprin bean life cycle.
+Explain Spring MVC architecture.
+What is DispatcherServlet?
