@@ -9,6 +9,7 @@ Difference between
 	-- save and persist
 	-- update and merge
 	-- save, update and saveOrUpdate
+What are generators?
 What is HQL and how to work with HQL?
 Explain different types of Relations with an example.
 What is cascade?
