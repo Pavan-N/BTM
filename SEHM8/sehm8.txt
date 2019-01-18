@@ -1,2 +1,35 @@
 Start Date: 07/01/2019
 
+
+TASK:
+/*
+	 ApplicationDTO {
+	 	int applicationId;
+	 	String appName;
+	 	double appVersion;
+	 	String type;
+	 	double price;
+	 }
+	 
+	 ApplicationDAO
+	 	Integer saveApplication(ApplicationDTO applicationDTO) {}
+	 	
+	 	void saveListOfApplications(List<ApplicationDTO> applicationDTOsList) {}
+	 	
+	 	double getApplicationVersionByName(String appName) {}
+	 
+	 	String getAppTypeByName(String appName) {}
+	 	
+	 	double getAppPriceByNameAndType(String appName, String appType) {}
+	 	
+	 	int updateAppTypeByName(String appType, String appName) {}
+	 	
+	 	int updateAppPriceByAppType(double appPrice, String appType) {}
+	 	
+	 	int updateAppNameByAppName(String oldName, String newAppName) {}
+	 	
+	 	int deleteAppByName(String appName) {}
+	 	
+	 	int deleteAppByPriceAndName(double appPrice, String appName) {}
+*/
+
